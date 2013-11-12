@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ACI810 Control 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="opcion_1">Preferencia 1</string>
+    <string name="touch">Touch</string>
+    <string name="opcion_2">Preferencia 2</string>
+    <string name="editText1"> Ingrese Texto aqui!</string>
+    <string name="opcion_3">Preferencia 3 </string>
+    <string name="submit">Submit</string>
+    <string name="valor_entregado">Valor entregado</string>
+    <string name="textview">TextView</string>
+    <string name="opcion_seleccionada">Opcion Seleccionada</string>
+    <string name="textView1">Formulario</string>
+    <string name="nombre_">Nombre:</string>
+    <string name="switch_">Switch:</string>
+    <string name="opcion_elegida">Opcion elegida</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+
+</resources>
